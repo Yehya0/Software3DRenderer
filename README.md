@@ -11,9 +11,6 @@ Here’s a quick demo of the 3D renderer in action:
 
 https://github.com/user-attachments/assets/1e93afe1-9ebb-4321-9a95-568feda1ba0e
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/8a0f4806-b7fa-47ac-b7e9-cbdb1a8b9a23)
-
-
 ## ⚙️ Features
 
 - **3D ASCII Rendering**: Renders 3D objects using ASCII characters.
